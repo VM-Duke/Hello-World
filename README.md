@@ -1,2 +1,3 @@
 # Hello-World
-Just another Repository
+
+This is Bineet Mahato, student of Bachelors in Information Technology
